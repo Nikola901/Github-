@@ -1,0 +1,38 @@
+How see your username 
+
+(git config --list )
+
+
+How to add git hub username and email 
+
+(git config --global user.name  John Doe)
+
+(git config --global user.email "stevebienaime@gmail.com") 
+
+
+
+To check for untracked files 
+
+git status 
+
+To add files to staging area
+
+git add filename 
+
+To commit a file 
+
+git commit -m  " insert comment here " 
+
+
+git push  -a  ( push all ) 
+
+
+
+
+To pull from someones git hub 
+git pull usrname master 
+
+
+
+
+
